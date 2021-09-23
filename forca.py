@@ -1,11 +1,11 @@
 
 
-
-
 def jogar():
-    print("*******************")
-    print("Jogo da Forca")
-    print("*******************")
+    print("*********************************")
+    print("***Bem vindo ao jogo da Forca!***")
+    print("*********************************")
 
+    print("Fim do jogo")
 
-    print("Fim de Jogo.")
+if(__name__ == "__main__"):
+    jogar()
